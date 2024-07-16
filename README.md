@@ -2,8 +2,8 @@
 
 
 <p>
-    <img src="home.jpg" >
-    <img src="home.jpg" >
+    <img src="home.jpeg" >
+    <img src="home.jpeg" >
 </p>
 
 # Sayogi Detector
