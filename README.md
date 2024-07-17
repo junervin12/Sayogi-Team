@@ -8,13 +8,17 @@
 
 # Sayogi Detector
 
-This is an Android application that detects fruits and vegetables using a deep learning model. The model is based on transfer learning with YOLOv8 and has been trained on a custom dataset from Roboflow.
+This is an Android application that detects fruits and vegetables using a deep learning model and computer vision. The model is based on transfer learning with YOLOv8 and has been trained on a custom dataset from Roboflow.
 
 ## Features
 
 - Detects fruits and vegetables in real-time using the camera.
 - Provides a freshness score to help users make informed decisions.
 - Easy-to-use interface with clear instructions.
+
+## Dataset
+The dataset was obtained from Roboflow and consists of 288 images with 2 classes. The dataset can be accessed from the following link:
+[Roboflow Dataset](https://universe.roboflow.com/orkhan-aliyev-8nktf/fruits-and-vegetables-2vf7u)
 
 ## Model Training
 
