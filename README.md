@@ -48,7 +48,7 @@ Creator
 1. Ardiansyah (NIM 206230009)
 2. Muhamad Ikbal Maulana (NIM 206230011)
 
-Under Under the supervision of [Junervin](https://github.com/junervin12)
+Under the supervision of [Junervin](https://github.com/junervin12)
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
